@@ -1,2 +1,2 @@
-# Kuaf-r-Berber-MVC-APP
+# Kuafor-Berber-MVC-APP
 Web Programlama Güz Dönemi Ödevi
